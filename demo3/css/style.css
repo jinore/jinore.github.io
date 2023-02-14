@@ -290,7 +290,6 @@ button {
     height: 35px;
 }
 
-
 /* logo section end */
 
 
@@ -500,6 +499,7 @@ a:hover {
     text-align: center;
     text-transform: uppercase;
     font-weight: bold;
+    border-color: #30302e;
 }
 
 .buynow_bt {
